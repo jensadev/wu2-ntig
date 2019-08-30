@@ -5,3 +5,5 @@ Hostat på pages.
 
 ### Source
 https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
+
+Google codelabs https://codelabs.developers.google.com/codelabs/offline/#0
