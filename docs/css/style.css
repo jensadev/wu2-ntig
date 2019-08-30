@@ -14,9 +14,8 @@ body {
 html, .fullscreen {
     display: flex;
     height: 100%;
-    margin: 0;
-    padding: 0;
     width: 100%;    
+    overflow: hidden;
 }
 
 .container {
@@ -25,8 +24,10 @@ html, .fullscreen {
 }
   
 .title {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Soleto XBold', 'Open Sans', sans-serif;
     font-weight: 800;
     font-size: 6rem;
     color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
 }
