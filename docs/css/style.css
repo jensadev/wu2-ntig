@@ -1,0 +1,29 @@
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+*/
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    background-image: url('/img/ntig-bg.png');
+}
+
+html, .fullscreen {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;    
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+  
+.title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 6rem;
+}
