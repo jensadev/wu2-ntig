@@ -26,8 +26,32 @@ html, .fullscreen {
 .title {
     font-family: 'Soleto XBold', 'Open Sans', sans-serif;
     font-weight: 800;
-    font-size: 6rem;
     color: white;
     text-transform: uppercase;
     letter-spacing: 0.03em;
+    font-size: 2rem;
+}
+
+@media (min-width: 576px) {
+    .title {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .title {
+        font-size: 4rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .title {
+        font-size: 6rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .title {
+        font-size: 8rem;
+    }
 }
